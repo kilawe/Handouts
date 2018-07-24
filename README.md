@@ -8,6 +8,6 @@ If the repository does not contain a data folder, [download] a zipped data file 
 
 ##Add collaborators
 -Charles Kilawe
--Purity 
+
 [download]: https://files.sesync.org/pydio/public/09bb83
 [CONTRIBUTING.md]: CONTRIBUTING.md
